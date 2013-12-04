@@ -1,0 +1,3 @@
+[submodule "seconddir"]
+	path = seconddir
+	url = git@github.com:nickdenardis/subproject-stuff.git
