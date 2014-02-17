@@ -1,0 +1,18 @@
+alias hello="echo hello world"
+
+# Laravel
+alias artisan="php artisan"
+
+# Git
+alias gs='git status'
+alias gl='git pull'
+alias gp='git push'
+alias gd='git diff'
+alias ga='git add --all'
+alias gc='git commit -am'
+alias gb='git branch'
+alias gco='git checkout'
+alias glog='git log'
+alias glogp='git log --pretty=format:"%h %s" --graph'
+alias gfs='git flow feature start'
+alias gff='git flow feature finish'
