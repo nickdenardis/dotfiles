@@ -18,4 +18,4 @@ alias gfs='git flow feature start'
 alias gff='git flow feature finish'
 
 # Vagrant
-alias wild-up='cd ~/Sites/wild-wayne/ && vagrant up'z
+alias wild-up='cd ~/Sites/wild-wayne/ && vagrant up'
