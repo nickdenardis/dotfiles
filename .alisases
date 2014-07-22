@@ -16,3 +16,6 @@ alias glog='git log'
 alias glogp='git log --pretty=format:"%h %s" --graph'
 alias gfs='git flow feature start'
 alias gff='git flow feature finish'
+
+# Vagrant
+alias wild-up='cd ~/Sites/wild-wayne/ && vagrant up'z
