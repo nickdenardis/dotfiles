@@ -22,4 +22,4 @@ alias g="gulp"
 alias gw="gulp watch"
 
 # Vagrant
-alias wild-up='cd ~/Sites/wild-wayne/ && vagrant up'
+alias wild-up='cd ~/Sites/wild-wayne/ && vagrant up && vagrant ssh'
